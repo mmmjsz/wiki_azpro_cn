@@ -70,10 +70,6 @@
 - [搜索](patterns/search.md)
 - [刷新](patterns/swipe-to-refresh.md)
 
-### 可用性
-- [可达性](usability/accessibility.md)
-- [双向性](usability/bidirectionality.md)
-
 ### 资源
 - [布局模板](resources/layout-templates.md)
 - [设备](resources/devices.md)
