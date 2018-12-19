@@ -4,8 +4,8 @@
 
 本站作为蔚蓝触点网站及API的Wiki站和帮助站。旨在更好的帮助用户使用本站API，各子网站及各APP。
 如需帮助，请添加微信公众号联系
-![微信公众号](images/wx.png =250x)
-
+![微信公众号](images/wx.png)
+{:.some-css-class width="200"}
 
 ## 包含网站
 - [蔚蓝触点](http://www.azuretouch.net)
