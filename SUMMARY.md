@@ -66,9 +66,6 @@
 - [滚动技巧](patterns/scrolling-techniques.md)
 - [改进的操作](patterns/promoted-actions.md)
 - [设置](patterns/settings.md)
-- [影像处理](patterns/imagery-treatment.md)
-- [搜索](patterns/search.md)
-- [刷新](patterns/swipe-to-refresh.md)
 
 ### 资源
 - [布局模板](resources/layout-templates.md)
