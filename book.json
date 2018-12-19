@@ -1,9 +1,9 @@
 {
     "root": "./",
-    "title": "示例文档",
-    "head_title": "_示例文档_字条网",
-    "head_description": "字条网示例文档",
-    "head_keywords": "字条,字条网,示例文档",
+    "title": "蔚蓝触点 Wiki",
+    "head_title": "蔚蓝触点 Wiki",
+    "head_description": "蔚蓝触点 Wiki",
+    "head_keywords": "蔚蓝触点,Wiki",
     "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
@@ -22,7 +22,7 @@
 
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://zitiao.org/simple/"
+            "prefix": "http://wiki.azpro.cn/simple/"
         }
     }
 }
