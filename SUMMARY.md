@@ -38,8 +38,6 @@
 - [分隔线](components/dividers.md)
 - [网格](components/grids.md)
 - [列表](components/lists.md)
-- [列表控制](components/list-controls.md)
-- [菜单](components/menus.md)
 
 ### 模式
 - [App 结构](patterns/app-structure.md)
