@@ -3,6 +3,9 @@
 **本站建立自2018年12月18日**
 
 本站作为蔚蓝触点网站及API的Wiki站和帮助站。旨在更好的帮助用户使用本站API，各子网站及各APP。
+如需帮助，请添加微信公众号联系
+![微信公众号](images/wx.png)
+
 
 ## 包含网站
 - [蔚蓝触点](http://www.azuretouch.net)
@@ -15,10 +18,14 @@
 
 ## 参与者
 
-### 翻译
+### 开发
 
-- [iceskysl](https://github.com/iceskysl)   
-- [zhenbeiju](https://github.com/zhenbeiju)     
+- [山智](http://www.azuretouch.net)
+- [疯过留痕](http://www.azuretouch.net)
+
+### 微信公众号维护
+
+- [小贝](http://www.azuretouch.net)
 
 ## 硬件及网络支持
 
