@@ -1,4 +1,4 @@
-### 关于我们
+### 关于
 - [前言](README.md)
 - [概述](material-design-intro/introduction.md)
 
