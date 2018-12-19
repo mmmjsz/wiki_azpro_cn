@@ -4,10 +4,10 @@
 - [友情链接](LINK.md)
 
 ### 用户授权 API
-# [WEB 模式](user-api/web-mode.md)
+* [WEB 模式](user-api/web-mode.md)
 - [介绍](style/color.md)
 - [使用帮助](style/typography.md)
-# [APP 模式](user-api/app-mode.md)
+* [APP 模式](user-api/app-mode.md)
 - [介绍](style/color.md)
 - [使用帮助](style/typography.md)
 
