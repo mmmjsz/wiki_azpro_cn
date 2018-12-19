@@ -40,16 +40,6 @@
 - [列表](components/lists.md)
 - [列表控制](components/list-controls.md)
 - [菜单](components/menus.md)
-- [选择器](components/pickers.md)
-- [进度和动态](components/progress-activity.md)
-- [选择控制](components/selection-controls.md)
-- [滑块](components/sliders.md)
-- [Snackbars 与 Toasts](components/snackbars-and-toasts.md)
-- [副标题](components/subheaders.md)
-- [开关](components/switches.md)
-- [Tabs](components/tabs.md)
-- [文本框](components/text-fields.md)
-- [工具提示](components/tooltips.md)
 
 ### 模式
 - [App 结构](patterns/app-structure.md)
