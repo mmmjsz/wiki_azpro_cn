@@ -35,8 +35,6 @@
 - [纸片](components/chips.md)
 - [数据表格](components/data-tables.md)
 - [提示框](components/dialogs.md)
-- [分隔线](components/dividers.md)
-- [网格](components/grids.md)
 - [列表](components/lists.md)
 
 ### 模式
