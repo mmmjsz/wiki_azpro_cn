@@ -25,27 +25,6 @@
 - [单位和度量](layout/units-measurements.md)
 - [度量与边框](layout/metrics-and-keylines.md)
 
-### 组件
-- [底部动作条](components/bottom-sheets.md)
-- [按钮](components/buttons.md)
-- [按钮：浮动操作按钮](components/buttons-floating-action-button.md)
-- [卡片](components/cards.md)
-- [纸片](components/chips.md)
-- [数据表格](components/data-tables.md)
-- [提示框](components/dialogs.md)
-- [列表](components/lists.md)
-
-### 模式
-- [App 结构](patterns/app-structure.md)
-- [数据格式](patterns/data-formats.md)
-- [空状态](patterns/empty-states.md)
-- [错误](patterns/errors.md)
-- [内容选取](patterns/selection.md)
-- [手势](patterns/gestures.md)
-- [启动屏幕](patterns/launch-screens.md)
-- [加载图像](patterns/loading-images.md)
-- [抽屉式导航](patterns/navigation-drawer.md)    
-
 ### 资源
 - [布局模板](resources/layout-templates.md)
 - [设备](resources/devices.md)
