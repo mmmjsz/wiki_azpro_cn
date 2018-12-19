@@ -9,10 +9,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <link rel="shortcut icon" href="http://cdn.zitiao.org/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     
     <link rel="stylesheet" href="{{ 'assets/website/page_custom.min.css'|resolveFile }}">
-    <script type="text/javascript" src="http://cdn.zitiao.org/www-tongji.js"></script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?b15dbd7a829b8ccd1c8b07abe01ea98b";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
     {% if page.next and page.next.path %}
     <link rel="next" href="{{ page.next.path|resolveFile }}" />
     {% endif %}
@@ -35,7 +43,7 @@
             {% if config.logo %}
             <a href="{{ "/"|resolveFile }}" class="logo">
                 <!-- <img src="{{ config.logo|resolveFile }}"> -->
-                <img src="http://cdn.zitiao.org/logo.png"/>
+                <img src="images/logo.png"/>
             </a>
             {% endif %}
             <a href="{{ "/"|resolveFile }}" class="logo">
@@ -90,7 +98,7 @@
     <footer class="gb-page-footer">
         <div class="container footer-container">
             <div class="copyright">
-                © 2017 <a href="http://zitiao.org">字条网 zitiao.org</a> | 京ICP备16051867号-2
+                © 2018 <a href="https://account.azpro.cn">蔚蓝触点</a>
             </div>
         </div>
     </footer>
