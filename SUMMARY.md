@@ -24,8 +24,6 @@
 - [准则](layout/layout-principles.md)
 - [单位和度量](layout/units-measurements.md)
 - [度量与边框](layout/metrics-and-keylines.md)
-- [结构](layout/structure.md)
-- [自适应 UI](layout/adaptive-ui.md)
 
 ### 组件
 - [底部动作条](components/bottom-sheets.md)
