@@ -51,11 +51,6 @@
 - [启动屏幕](patterns/launch-screens.md)
 - [加载图像](patterns/loading-images.md)
 - [抽屉式导航](patterns/navigation-drawer.md)    
-- [导航](patterns/navigation.md)
-- [导航过渡](patterns/navigational-transitions.md)
-- [滚动技巧](patterns/scrolling-techniques.md)
-- [改进的操作](patterns/promoted-actions.md)
-- [设置](patterns/settings.md)
 
 ### 资源
 - [布局模板](resources/layout-templates.md)
