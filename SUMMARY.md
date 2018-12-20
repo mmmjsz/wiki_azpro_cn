@@ -14,8 +14,8 @@
 - [使用帮助](style/typography.md)
 
 ### HTML2PDF
-- [介绍](HTML2PDF/intro.md)
-- [使用帮助](HTML2PDF/help.md)
+- [介绍](html2pdf/intro.md)
+- [使用帮助](html2pdf/help.md)
 
 ### 蔚蓝短地址
 - [介绍](azurl/intro.md)
