@@ -4,7 +4,7 @@
 
 本站作为蔚蓝触点网站及API的Wiki站和帮助站。旨在更好的帮助用户使用本站API，各子网站及各APP。
 
-如需帮助，请添加微信公众号联系
+如需线上帮助，请添加微信公众号联系
 
 <img src="images/wx.png" alt="微信公众号" data-canonical-src="images/wx.png" width="200" height="200" />
 
@@ -21,8 +21,8 @@
 
 ### 开发
 
-- [山智](http://www.azuretouch.net)
-- [疯过留痕](http://www.azuretouch.net)
+- [山智](https://tvoskit.cn/)
+- [疯过留痕](https://sunyy.azpro.cn/)
 
 ### 微信公众号维护
 
