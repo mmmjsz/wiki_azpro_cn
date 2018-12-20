@@ -6,7 +6,7 @@
 
 ## 网站截图
 
-![蔚蓝短地址](../images/azurl.cn.pnd)
+![蔚蓝短地址](../images/azurl.cn.png)
 
 ## 参与者
 
