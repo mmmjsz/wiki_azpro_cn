@@ -1,34 +1,11 @@
-# 蔚蓝触点 Wiki 及帮助
+# 蔚蓝短地址(https://azurl.cn)
 
-**本站建立自2018年12月18日**
+由于业务需求，开发了这样一个短地址的网站，以便内部业务可以使用。
 
-本站作为蔚蓝触点网站及API的Wiki站和帮助站。旨在更好的帮助用户使用本站API，各子网站及各APP。
-
-如需线上帮助，请添加微信公众号联系
-
-<img src="images/wx.png" alt="微信公众号" data-canonical-src="images/wx.png" width="200" height="200" />
-
-## 包含网站
-- [蔚蓝触点](http://www.azuretouch.net)
-- [HTML2PDF](https://pdf.azpro.cn)
-- [蔚蓝短地址](https://azurl.cn)
-- [蔚蓝触点论坛](http://forum.azuretouch.net)
-
-## 包含APP
-- [云 for AppleTV](http://www.azuretouch.net)
+和 t.cn 一样，用户可以生成类似于 azurl.cn/xxxxxx 这样的短地址。
 
 ## 参与者
 
 ### 开发
 
-- [山智](https://tvoskit.cn/)
-- [疯过留痕](https://sunyy.azpro.cn/)
-
-### 微信公众号维护
-
-- [小贝](http://www.azuretouch.net)
-
-## 硬件及网络支持
-
-- [腾讯云](http://cloud.tencent.com/) 提供服务器   
-- [七牛](http://qiniu.com/) 提供图片及视频存储
+- [mjsz](https://blog.azpro.cn/)
