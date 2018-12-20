@@ -4,6 +4,10 @@
 
 和 t.cn 一样，用户可以生成类似于 azurl.cn/xxxxxx 这样的短地址。
 
+## 网站截图
+
+![蔚蓝短地址](../images/azurl.cn.pnd)
+
 ## 参与者
 
 ### 开发
