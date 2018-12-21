@@ -16,7 +16,13 @@
 
 ## 用户授权
 
+- 对WEBSITE和APP进行授权
+- 取消对已经授权的WEBSITE或者APP
+
 ## API
+
+- WEB模式
+- APP模式
 
 ## 参与者
 
