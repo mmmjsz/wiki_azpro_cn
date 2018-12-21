@@ -3,10 +3,11 @@
 - [更新记录](whats-new.md)
 - [友情链接](LINK.md)
 
-### 用户授权
+### 蔚蓝触点用户中心
 - [介绍](user-api/intro.md)
-- [WEB 模式](user-api/web-mode.md)
-- [APP 模式](user-api/app-mode.md)
+- [使用帮助](user-api/typography.md)
+- [API WEB模式](user-api/web-mode.md)
+- [API APP模式](user-api/app-mode.md)
 - [其他帮助](user-api/others.md)
 
 ### APP
