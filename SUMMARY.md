@@ -14,6 +14,10 @@
 - [介绍](style/color.md)
 - [使用帮助](style/typography.md)
 
+### 微信网页授权助手
+- [介绍](wca/intro.md)
+- [使用帮助](wca/help.md)
+
 ### HTML2PDF
 - [介绍](html2pdf/intro.md)
 - [使用帮助](html2pdf/help.md)
