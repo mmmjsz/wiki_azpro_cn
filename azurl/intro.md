@@ -6,7 +6,14 @@
 
 ## 网站截图
 
-![蔚蓝短地址](../images/azurl.cn.png)
+![蔚蓝短地址](../images/azurl/default.png)
+
+![蔚蓝短地址](../images/azurl/custom.png)
+
+## 功能
+
+- [x] [创建标准短地址(例:https://azurl.cn/auY3I3)]
+- [x] [创建自定义短地址(例:https://azurl.cn/azurl)]
 
 ## 参与者
 
