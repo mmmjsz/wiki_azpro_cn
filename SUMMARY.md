@@ -10,6 +10,10 @@
 - [API APP模式](user-api/app-mode.md)
 - [其他帮助](user-api/others.md)
 
+### 蔚蓝触点公众号
+- [介绍](wechat/intro.md)
+- [申请应用指引](wechat/guide.md)
+
 ### APP
 - [介绍](style/color.md)
 - [使用帮助](style/typography.md)
