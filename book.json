@@ -25,7 +25,7 @@
     "pluginsConfig": {
         "sitemap-general": {
             "prefix": "https://wiki.azpro.cn/"
-        }
+        },
         "theme-gestalt": {
             "logo": "/assets/logo.png",			// path to the logo file to use in the sidebar
             "favicon": "/assets/favicon.png",		// path to your favicon
