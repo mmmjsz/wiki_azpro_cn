@@ -15,7 +15,7 @@
         "-fontsettings",
         "-lunr",
         "-search",
-        "search-pro",
+        "-search-pro",
         "-theme-official",
         "-sitemap-general",
         "-theme-gestalt", 
@@ -47,12 +47,13 @@
             "excludeDefaultStyles": false,
             "doNotHideChildrenChapters" : false
         },
-        "theme-fexa":{
+        "theme-fexa": {
             "search-placeholder":"输入关键字搜索", //搜索框提示信息
             "logo":"./logo.png", //logo地址
             "favicon": "./favicon.ico" //ico地址
         }
     },
+    
     "styles": {
         "website": "./styles/website.scss"
     }
