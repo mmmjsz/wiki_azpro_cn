@@ -21,7 +21,7 @@
         "-sitemap-general",
         "theme-gestalt", 
         "-theme-default", 
-        "-styles-sass-fix"
+        "styles-sass-fix"
     ],
 
     "pluginsConfig": {
@@ -29,8 +29,8 @@
             "prefix": "https://wiki.azpro.cn/"
         },
         "theme-gestalt": {
-            "logo": "/assets/logo.png",
-            "favicon": "/assets/favicon.png",
+            "logo": "/images/logo.png",
+            "favicon": "/images/favicon.ico",
             "baseUrl": null,
             "excludeDefaultStyles": false,
             "doNotHideChildrenChapters" : false
