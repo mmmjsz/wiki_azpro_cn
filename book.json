@@ -17,10 +17,10 @@
         "-lunr",
         "-search",
         "search-pro",
-        "theme-official",
+        "-theme-official",
         "sitemap-general",
         "-theme-gestalt", 
-        "-theme-default", 
+        "theme-default", 
         "-styles-sass-fix"
     ],
 
