@@ -18,9 +18,9 @@
         "-search",
         "search-pro",
         "-theme-official",
-        "sitemap-general",
-        "-theme-gestalt", 
-        "theme-default", 
+        "-sitemap-general",
+        "theme-gestalt", 
+        "-theme-default", 
         "-styles-sass-fix"
     ],
 
