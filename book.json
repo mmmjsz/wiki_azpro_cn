@@ -16,7 +16,8 @@
         "-lunr",
         "-search",
         "search-pro",
-        "theme-gestalt",
+        "-theme-gestalt",
+        "theme-fexa",
         "sitemap-general"
     ],
 
