@@ -9,27 +9,20 @@
     "gitbook": ">= 3.0.0",
 
     "language": "zh-hans",
-
+    
     "plugins": [
         "-sharing",
         "-fontsettings",
         "-lunr",
         "-search",
-        "-search-pro",
-        "-theme-official",
-        "-sitemap-general",
-        "theme-gestalt", 
-        "-theme-default", 
-        "-styles-sass-fix"
+        "search-pro",
+        "theme-official",
+        "sitemap-general"
     ],
 
     "pluginsConfig": {
-        "theme-gestalt": {
-            "logo": "/assets/logo.png",
-            "favicon": "/assets/favicon.png",
-            "baseUrl": null,
-            "excludeDefaultStyles": true,
-            "doNotHideChildrenChapters" : false
+        "sitemap-general": {
+            "prefix": "https://wiki.azpro.cn/"
         }
     }
 }
