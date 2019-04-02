@@ -19,11 +19,24 @@
         "search-pro",
         "-theme-official",
         "-sitemap-general",
-        "theme-gestalt", 
+        "-theme-gestalt", 
         "-theme-default", 
-        "styles-sass-fix"
+        "-styles-sass-fix",
+        "theme-fexa"
     ],
 
+    "variables": {
+        "themeFexa":{
+            "nav":[
+                {
+                    "url":"http://...",
+                    "target":"_blank",
+                    "name": "简易教程"
+                }
+            ]
+        },
+    },
+    
     "pluginsConfig": {
         "sitemap-general": {
             "prefix": "https://wiki.azpro.cn/"
@@ -34,6 +47,11 @@
             "baseUrl": null,
             "excludeDefaultStyles": false,
             "doNotHideChildrenChapters" : false
+        },
+        "theme-fexa":{
+            "search-placeholder":"输入关键字搜索", //搜索框提示信息
+            "logo":"./logo.png", //logo地址
+            "favicon": "./favicon.ico" //ico地址
         }
     },
     "styles": {
