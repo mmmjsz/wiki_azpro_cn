@@ -10,20 +10,27 @@
 
     "language": "zh-hans",
     
+
     "plugins": [
         "-sharing",
         "-fontsettings",
         "-lunr",
         "-search",
-        "search-pro",
-        "-theme-gestalt",
-        "theme-fexa",
-        "sitemap-general"
+        "-search-pro",
+        "-theme-official",
+        "-sitemap-general",
+        "theme-gestalt", 
+        "-theme-default", 
+        "-styles-sass-fix"
     ],
 
     "pluginsConfig": {
-        "sitemap-general": {
-            "prefix": "https://wiki.azpro.cn/"
+        "theme-gestalt": {
+            "logo": "/assets/logo.png",
+            "favicon": "/assets/favicon.png",
+            "baseUrl": null,
+            "excludeDefaultStyles": true,
+            "doNotHideChildrenChapters" : false
         }
     }
 }
