@@ -16,15 +16,21 @@
         "-fontsettings",
         "-lunr",
         "-search",
-        "-search-pro",
-        "-theme-official",
-        "-sitemap-general",
-        "theme-gestalt", 
+        "search-pro",
+        "theme-official",
+        "sitemap-general",
+        "-theme-gestalt", 
         "-theme-default", 
-        "styles-sass-fix"
+        "-styles-sass-fix"
     ],
 
     "pluginsConfig": {
-
+        "theme-gestalt": {
+            "logo": "/assets/logo.png",
+            "favicon": "/assets/favicon.png",
+            "baseUrl": null,
+            "excludeDefaultStyles": true,
+            "doNotHideChildrenChapters" : false
+        }
     }
 }
