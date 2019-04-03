@@ -48,9 +48,9 @@
             "doNotHideChildrenChapters" : false
         },
         "theme-fexa": {
-            "search-placeholder":"输入关键字搜索", //搜索框提示信息
-            "logo":"./logo.png", //logo地址
-            "favicon": "./favicon.ico" //ico地址
+            "search-placeholder":"输入关键字搜索",
+            "logo":"./logo.png",
+            "favicon": "./favicon.ico"
         }
     },
     
