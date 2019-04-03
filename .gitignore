@@ -2,3 +2,5 @@
 /_book_cache
 /node_modules
 search_pro_index.json
+/.well-known
+run.sh
