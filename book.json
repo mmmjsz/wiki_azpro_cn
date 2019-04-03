@@ -1,8 +1,8 @@
 {
     "root": "./",
-    "title": "蔚蓝触点Wiki站",
-    "head_title": "蔚蓝触点Wiki站",
-    "head_description": "蔚蓝触点Wiki站",
+    "title": "Wiki站",
+    "head_title": "Wiki站",
+    "head_description": "蔚蓝触点的Wiki站",
     "head_keywords": "蔚蓝触点,Wiki",
     "logo": "./images/logo.png",
 
@@ -15,46 +15,14 @@
         "-fontsettings",
         "-lunr",
         "-search",
-        "-search-pro",
-        "-theme-official",
-        "-sitemap-general",
-        "-theme-gestalt", 
-        "-theme-default", 
-        "-styles-sass-fix",
-        "theme-fexa"
+        "search-pro",
+        "theme-official",
+        "sitemap-general"
     ],
 
-    "variables": {
-        "themeFexa":{
-            "nav":[
-                {
-                    "url":"http://...",
-                    "target":"_blank",
-                    "name": "简易教程"
-                }
-            ]
-        },
-    },
-    
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "https://wiki.azpro.cn/"
-        },
-        "theme-gestalt": {
-            "logo": "/images/logo.png",
-            "favicon": "/images/favicon.ico",
-            "baseUrl": null,
-            "excludeDefaultStyles": false,
-            "doNotHideChildrenChapters" : false
-        },
-        "theme-fexa": {
-            "search-placeholder":"输入关键字搜索",
-            "logo":"./logo.png",
-            "favicon": "./favicon.ico"
+            "prefix": "http://wiki.azpro.cn/simple/"
         }
-    },
-    
-    "styles": {
-        "website": "./styles/website.scss"
     }
 }
