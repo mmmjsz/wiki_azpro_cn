@@ -13,16 +13,121 @@
     },
   
     "plugins": [
-        "theme-code",
-        "splitter",
+        "theme-cuav",
+        "github",
+        "donate",
+        "anchor-navigation-ex",
+        "sharing-plus",
         "prism",
-        "folding-chapters",
-        "-sharing"
+        "expandable-chapters-small",
+        "todo",
+        "-toggle-chapters",
+        "-livereload",
+        "-splitter",
+        "-sharing",
+        "-highlight",
+        "-autosize-iframe"
     ],
   
     "pluginsConfig": {
+        "theme-cuav": {
+            "useGitbookIcon": false,
+            "iconPath": "/images/favicon.ico",
+            "showGitBookLink": true,
+            "footer": "2019 © <a target='_blank' href='https://www.azuretouch.net'>蔚蓝触点<a>",
+            "navbar": {
+                "brand": {
+                    "url": "https://wiki.azpro.cn",
+                    "logo": {
+                        "alt": "蔚蓝触点的Wiki站",
+                        "url": "https://wiki.azpro.cn/images/logo.png",
+                        "path": "images/logo.png"
+                    }
+                },
+                "nav": {
+                    "items": [
+                        {
+                            "name": "蔚蓝触点官网",
+                            "url": "https://www.azuretouch.net"
+                        },
+                        {
+                            "name": "蔚蓝触点博客",
+                            "url": "https://blog.azpro.cn"
+                        },
+                        {
+                            "name": "蔚蓝系列",
+                            "links": [
+                                {
+                                    "name": "蔚蓝短地址",
+                                    "url": "https://azurl.cn"
+                                },
+                                {
+                                    "name": "HTML2PDF",
+                                    "url": "https://pdf.azpro.cn"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "navAjaxUrl": "/xxx.json"
+            }
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "weibo","qq","qzone","google"
+            ]
+        },
+        "github": {
+          "url": "https://github.com/mmmjsz/wiki_azpro_cn"
+        },
+        "donate": {
+            "alipay": "https://www.azuretouch.net/imgs/alipay.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "如果对你有帮助的话"
+        },
+        "anchor-navigation-ex": {
+            "associatedWithSummary":false,
+            "showLevel":false,
+            "multipleH1": true,
+            "mode": "float",
+
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 2
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
         }
     }
 }
