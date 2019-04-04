@@ -3,7 +3,6 @@
 
 ### 2019 年 4 月   
  
-
 #### WIKI 模板更新
 
 - 修改 theme-default 模板，修复部分错误及更新部分功能，生成模板 theme-azpro， github地址为：https://github.com/mmmjsz/gitbook-plugin-theme-azpro
